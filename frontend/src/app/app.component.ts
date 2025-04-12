@@ -9,6 +9,4 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
 
-  constructor(private renderer : Renderer2, private element : ElementRef) {
-  }
 }
