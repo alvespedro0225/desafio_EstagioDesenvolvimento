@@ -1,6 +1,6 @@
 @pokeAPI_HostAddress = http://localhost:5114
 
-GET {{pokeAPI_HostAddress}}/weatherforecast/
+GET {{pokeAPI_HostAddress}}/pokemon/charmander
 Accept: application/json
 
 ###
